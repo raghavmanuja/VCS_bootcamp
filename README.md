@@ -1,3 +1,2 @@
 # VCS_bootcamp
-#First commit
-new changes made
+this is the final doc
