@@ -1,3 +1,2 @@
 # VCS_bootcamp
-#First commit
-# change
+# conflict resolve
